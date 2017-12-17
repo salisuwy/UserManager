@@ -1,3 +1,9 @@
+# Running the Test
+
+Run **window-setup.bat** if you are on WINDOWS or **setup.py** on other platforms.
+Youtube video: _https://www.youtube.com/watch?v=DmxCHc2mgkA&feature=youtu.be_
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # User Manager
